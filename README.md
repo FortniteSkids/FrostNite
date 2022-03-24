@@ -1,6 +1,6 @@
 # FrostNite
 Yes, we have officially leaked Frostnite's Launcher, Backend, Replit Link, tokens they use, and Dlls.
-Thanks to DRQSuperior for some of the leaks<br><br>
+Thanks to DRQSuperior for some of the leaks<br>
 
 Leaked by: FortniteSkids (https://github.com/FortniteSkids) :trollface:
 
